@@ -1,0 +1,3 @@
+<?
+
+$response = array("status"=>"ok");
